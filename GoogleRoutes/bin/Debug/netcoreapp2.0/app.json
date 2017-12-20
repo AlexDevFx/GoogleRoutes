@@ -1,0 +1,12 @@
+﻿{
+  "GoogleApi": {
+    "GeocodingApiKey": "AIzaSyCkHeVqS4I0mij4HY2sggQ75ssUXbwGXNg",
+    "DistanceMatixApiKey": "AIzaSyAbpuk2_LpQvM0SMzSTScd18DnSo2nmF0w",
+    "HostName": "maps.googleapis.com",
+    "Path": "maps/api",
+    "Protocol": "https",
+    "OutputFormat": "json",
+    "GeocodingMethod": "geocode",
+    "DistanceMatrixMethod": "distancematrix"
+  }
+}
